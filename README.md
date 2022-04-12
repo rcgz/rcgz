@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rcgz
 - 👀 I’m interested in oilfields simulation
 - 🌱 I’m currently learning about OPM flow
-- 📫 How to reach me: romicuevaluna98@gmail.com/gustavozambranosalazar@hotmail.com
+- 📫 How to reach me: romicuevaluna98@gmail.com/ gustavozambranosalazar@hotmail.com
 -
 
 <!---
